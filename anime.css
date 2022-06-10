@@ -1,0 +1,373 @@
+body {
+	background: rgba(26.56249936670065, 26.56249936670065, 26.56249936670065, 1);
+}
+
+.e41_2 { 
+	background-color:rgba(26.56249936670065, 26.56249936670065, 26.56249936670065, 1);
+	width:1920px;
+	height:3509px;
+	/*position:absolute;*/
+}
+.e41_3 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(0, 78.28711554408073, 131.79980367422104, 1);
+	width:1920px;
+	height:80px;
+	position:absolute;
+	left:1px;
+	top:56px;
+}
+.e41_4 { 
+	width:203px;
+	height:183px;
+	position:absolute;
+	left:304px;
+	top:10px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	background-image:url(images/preview_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e41_5 { 
+	width:116px;
+	height:105px;
+	position:absolute;
+	left:909px;
+	top:3214px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	background-image:url(images/preview_3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e41_6 { 
+	color:rgba(255, 255, 255, 1);
+	width:800px;
+	height:80px;
+	position:absolute;
+	left:591px;
+	top:56px;
+	font-family:Inter;
+	text-align:left;
+	font-size:64px;
+	letter-spacing:0;
+}
+.e41_7 { 
+	background-color:rgba(27.000000290572643, 27.000000290572643, 27.000000290572643, 1);
+	width:1920px;
+	height:68px;
+	position:absolute;
+	left:0px;
+	top:193px;
+}
+.e41_8 { 
+	color:rgba(255, 255, 255, 1);
+	width:79px;
+	height:32px;
+	position:absolute;
+	left:405px;
+	top:211px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e41_9 { 
+	color:rgba(255, 255, 255, 1);
+	width:163px;
+	height:32px;
+	position:absolute;
+	left:979px;
+	top:211px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e41_10 { 
+	color:rgba(255, 255, 255, 1);
+	width:135px;
+	height:32px;
+	position:absolute;
+	left:595px;
+	top:211px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e41_11 { 
+	color:rgba(255, 255, 255, 1);
+	width:190px;
+	height:32px;
+	position:absolute;
+	left:789px;
+	top:211px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e41_12 { 
+	background-color:rgba(9.364869184792042, 4.143749848008156, 41.43749848008156, 1);
+	width:1778px;
+	height:2922px;
+	position:absolute;
+	left:72px;
+	top:261px;
+}
+.e63_10 { 
+	box-shadow:0px 6px 4px rgba(0, 0, 0, 0.25);
+	width:346px;
+	height:557px;
+	position:absolute;
+	left:215px;
+	top:2529px;
+	background-image:url(images/one_punch_man_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e63_9 { 
+	box-shadow:0px 6px 4px rgba(0, 0, 0, 0.25);
+	width:347px;
+	height:565px;
+	position:absolute;
+	left:985px;
+	top:1663px;
+	background-image:url(images/kimetsu_no_yaiba_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e41_51 { 
+	width:1521px;
+	height:870px;
+	position:absolute;
+	left:200px;
+	top:517px;
+	background-image:url(images/spy_family_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e41_14 { 
+	color:rgba(247.56250709295273, 247.56250709295273, 247.56250709295273, 1);
+	width:209px;
+	height:67px;
+	position:absolute;
+	left:837px;
+	top:336px;
+	font-family:Inter;
+	text-align:left;
+	font-size:55px;
+	letter-spacing:0;
+}
+.e63_11 { 
+	color:rgba(247.56250709295273, 247.56250709295273, 247.56250709295273, 1);
+	width:216px;
+	height:67px;
+	position:absolute;
+	left:215px;
+	top:1526px;
+	font-family:Inter;
+	text-align:left;
+	font-size:55px;
+	letter-spacing:0;
+}
+.e63_12 { 
+	color:rgba(247.56250709295273, 247.56250709295273, 247.56250709295273, 1);
+	width:307px;
+	height:85px;
+	position:absolute;
+	left:215px;
+	top:2391px;
+	font-family:Inter;
+	text-align:left;
+	font-size:55px;
+	letter-spacing:0;
+}
+.e41_15 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:497px;
+	height:52px;
+	position:absolute;
+	left:1289px;
+	top:201px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.e41_15 { 
+	border:2px solid rgba(159.0000057220459, 111.00000098347664, 193.00000369548798, 1);
+}
+.e41_16 { 
+	width:46px;
+	height:45px;
+	position:absolute;
+	left:1716px;
+	top:205px;
+	background-image:url(images/icon_procura_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e41_17 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:892px;
+	top:36px;
+}
+.e41_41 { 
+	color:rgba(255, 255, 255, 1);
+	width:241px;
+	height:30px;
+	position:absolute;
+	left:575px;
+	top:3362px;
+	font-family:Inter;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e41_42 { 
+	color:rgba(255, 255, 255, 1);
+	width:280px;
+	height:30px;
+	position:absolute;
+	left:869px;
+	top:3362px;
+	font-family:Inter;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e41_43 { 
+	color:rgba(255, 255, 255, 1);
+	width:140px;
+	height:30px;
+	position:absolute;
+	left:1206px;
+	top:3362px;
+	font-family:Inter;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e41_44 { 
+	color:rgba(255, 255, 255, 1);
+	width:405px;
+	height:54px;
+	position:absolute;
+	left:758px;
+	top:3418px;
+	font-family:Inter;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e42_52 { 
+	color:rgba(7.000000057742, 0, 20.000000707805157, 1);
+	width:627px;
+	height:110px;
+	position:absolute;
+	left:1026px;
+	top:617px;
+	font-family:Inter;
+	text-align:center;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e42_53 { 
+	color:rgba(252.00000017881393, 238.00000101327896, 226.0000017285347, 1);
+	width:253px;
+	height:39px;
+	position:absolute;
+	left:1245px;
+	top:1028px;
+	font-family:Inter;
+	text-align:left;
+	font-size:35px;
+	letter-spacing:0;
+}
+.e42_54 { 
+	color:rgba(68.00000354647636, 71.00000336766243, 62.00000010430813, 1);
+	width:708px;
+	height:245px;
+	position:absolute;
+	left:985px;
+	top:765px;
+	font-family:Inter;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e62_2 { 
+	box-shadow:0px 6px 4px rgba(0, 0, 0, 0.25);
+	width:346px;
+	height:565px;
+	position:absolute;
+	left:1371px;
+	top:1663px;
+	background-image:url(images/attack_on_titan_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e62_3 { 
+	box-shadow:0px 6px 4px rgba(0, 0, 0, 0.25);
+	width:346px;
+	height:557px;
+	position:absolute;
+	left:604px;
+	top:2529px;
+	background-image:url(images/boku_no_hero_academia_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e62_4 { 
+	box-shadow:0px 6px 4px rgba(0, 0, 0, 0.25);
+	width:347px;
+	height:565px;
+	position:absolute;
+	left:600px;
+	top:1663px;
+	background-image:url(images/got__reincarnated__as_a_slime_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e62_5 { 
+	box-shadow:0px 6px 4px rgba(0, 0, 0, 0.25);
+	width:346px;
+	height:565px;
+	position:absolute;
+	left:215px;
+	top:1663px;
+	background-image:url(images/one_piece_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e63_7 { 
+	box-shadow:0px 6px 4px rgba(0, 0, 0, 0.25);
+	width:346px;
+	height:557px;
+	position:absolute;
+	left:1371px;
+	top:2529px;
+	background-image:url(images/fullmetal_alchemist_brotherhood_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e63_8 { 
+	box-shadow:0px 6px 4px rgba(0, 0, 0, 0.25);
+	width:346px;
+	height:557px;
+	position:absolute;
+	left:986px;
+	top:2529px;
+	background-image:url(images/mobile_suit_gundam_00_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
